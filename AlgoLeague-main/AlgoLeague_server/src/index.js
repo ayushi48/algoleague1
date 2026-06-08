@@ -24,7 +24,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://algoleague.vercel.app",
+      "https://algo-league1.vercel.app",
     ],
     credentials: true,
   })
