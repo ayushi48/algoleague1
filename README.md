@@ -22,11 +22,9 @@ The platform supports **multiple programming languages** and provides a seamless
 
 ---
 
-## 📸 Project Preview
 
-> 🎥 *Demo video available in the repository*
 
----
+
 
 ## ✨ Features
 
