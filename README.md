@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🧠✨ AlgoLeague ✨🚀
+# 🧠✨ AlgoLeague - Online Coding Platform ✨🚀
 
 ### 🔥 Practice • Compete • Improve 🔥
 
